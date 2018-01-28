@@ -25,3 +25,6 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+
+
+All this code comes from [Matt Raible's Okta Blog](https://developer.okta.com/blog/2017/12/04/basic-crud-angular-and-spring-boot)
